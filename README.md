@@ -1,5 +1,5 @@
 # Overloading-in-Cpp
-**Aim:**    To study **constructor overloading**, **function overloading**, and **operator overloading** in C++.
+**Aim:**    To study **constructor overloading**, **function overloading**, and **operator overloading** in C++
 
 **Tools:**      GNU g++ compiler for local compilation or any online C++ compiler.
 # Theory  
