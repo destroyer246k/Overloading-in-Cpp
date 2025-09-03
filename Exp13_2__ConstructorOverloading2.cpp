@@ -1,0 +1,24 @@
+//Patel Vishwas
+//24070123072
+//A3
+#include <iostream>
+using namespace std;
+class Product{
+public:
+    Product(float Cp, float Sp, int sold){
+        cout << "Profit/Loss: "<<(Sp-Cp) *sold<<endl;
+    }
+    Product(int Avai, int sold){
+        cout << "Inventory left: "<<Avai - sold <<endl;
+    }
+};
+int main() {
+    Product p(150.5f,199.0f,10);
+    Product p1(140,10);
+    return 0;
+}
+/*
+Output:
+Profit/Loss: 485
+Inventory left: 130
+*/
