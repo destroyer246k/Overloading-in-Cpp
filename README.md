@@ -48,7 +48,7 @@ This program demonstrates operator overloading by redefining the `+` operator fo
 3. Write a constructor to initialize values.  
 4. Overload the + operator to add two Complex objects.  
 5. Create two Complex objects in main, add them using +, and display the result.  
-6. End  
+6. End
 ## **Program 5: Operator Overloading (Calculator)**  
 ### Logic:  
 This program shows how arithmetic operators like `+`, `-`, `*`, and `/` can be overloaded for a `Calc` class. By overloading these operators, the objects can perform addition, subtraction, multiplication, and division just like primitive data types. This makes the interaction between objects simple, clean, and intuitive
